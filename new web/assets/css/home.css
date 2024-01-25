@@ -1,0 +1,54 @@
+
+
+
+
+.header-slider{
+    height: 248px;
+    overflow: hidden;
+}
+.menu-section{
+    width: 25%;
+    float: left;
+    background-color: rgb(195, 237, 237);
+    margin-right:2% solid black; 
+    padding-left:10px;
+}
+
+
+.container{
+    width:100%;
+    margin-top: 0 auto;
+    background-color: rgb(19, 151, 90);
+    display: flex;
+
+}
+
+
+
+.menu-section ul{
+    text-decoration: none;
+    border-bottom: 2% solid black;
+    padding: 0;
+    list-style: none;
+
+   
+} 
+.menu-section ul li{
+    list-style: none;
+    padding: 15px 0;
+    border: 2% solid black;
+}
+.menu-section a{
+    border: 2% solid black;
+    
+   
+}
+
+.content-section{
+    width: 75%;
+    padding: 20px;
+   
+}
+.footer{
+    text-align: center;
+}
